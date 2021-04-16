@@ -1,0 +1,1 @@
+{"version":3,"sources":["./styles.scss"],"names":[],"mappings":"AAAA;EACI;AACJ;;AACA;EACI;AAEJ;;AACA;EACA;EACA;EACA;AAEA,C","file":"styles.css","sourcesContent":["*{\n    box-sizing: border-box;\n}\nhtml,body{\n    height: 100%;\n}\n\nbody{\npadding:0px;\noverflow: hidden;\nfont-family: 'Arimo', sans-serif;\n}\n"],"sourceRoot":"webpack:///"}

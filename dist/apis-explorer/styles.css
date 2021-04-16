@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  padding: 0px;
+  overflow: hidden;
+  font-family: "Arimo", sans-serif;
+}
+
+/*# sourceMappingURL=styles.css.map*/
